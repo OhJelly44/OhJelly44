@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @OhJelly44
-- 👀 I’m interested in baseball
-- 🌱 I’m currently learning C language
-- 📫 How to reach me instagram @owwo_2
-- 😄 Pronouns: a devil huge of samsung lions baseball fan
 
-<!---
-OhJelly44/OhJelly44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=Slice&color=_hexcode&height=300&seection=headr&text=README.md&fontSize=90&animation=fadeIn&fontAlignY=38&desc=README.md&descAlignY=51&descAlign=62"/>
+</p>
