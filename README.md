@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OhJelly44
 - 👀 I’m interested in baseball
 - 🌱 I’m currently learning C language
-- 📫 How to reach me instagram owwo_2
+- 📫 How to reach me instagram @owwo_2
 - 😄 Pronouns: a devil huge of samsung lions baseball fan
 
 <!---
